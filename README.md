@@ -1,2 +1,2 @@
 # Si-Lupis-Kenaoa-Jir
-Hbs Syff
+Hbd Syff
